@@ -13,12 +13,12 @@ pip3 install opencv-python pyzbar
 
 ---
 
-## Basic of Optical Flow 🔍 
+## Basics of Optical Flow 🔍 
 
-Tracking single point, using optical flow => <a href="https://nanonets.com/blog/optical-flow/">  Click here to know more... </a>
+Optical flow is a technique that estimates the motion of objects in a series of images. => <a href="https://nanonets.com/blog/optical-flow/">  Click here to know more... </a>
 
 
-## Basic of Template Matching 
+## Basics of Template Matching 🔍
 
 Template matching is a technique in image processing that compares a template image to an image to find matching parts. => <a href="https://medium.com/analytics-vidhya/image-processing-template-matching-aac0c1cbe2c0">  Click here to know more... </a>
 
