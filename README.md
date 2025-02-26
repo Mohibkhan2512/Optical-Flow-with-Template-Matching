@@ -1,5 +1,8 @@
 ## Optical-Flow-with-Template-Matching
 
+## For any queries reach out to me on linkedin
+<a href="https://www.linkedin.com/in/mohibkhan25/">  https://www.linkedin.com/in/mohibkhan25/ </a>
+
 ## Installation of Python Modules 
 
 #### OpenCV Python and PyZbar
@@ -19,5 +22,4 @@ Tracking single point, using optical flow => <a href="https://nanonets.com/blog/
 
 Template matching is a technique in image processing that compares a template image to an image to find matching parts. => <a href="https://medium.com/analytics-vidhya/image-processing-template-matching-aac0c1cbe2c0">  Click here to know more... </a>
 
-## For any queries reachout to me on linkedin
-<a href="https://www.linkedin.com/in/mohibkhan25/">  My Profile </a>
+
